@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@google/genai": "^1.43.0",
-    "@sparticuz/chromium": "^143.0.4",
     "@tailwindcss/postcss": "^4.2.1",
     "cheerio": "^1.2.0",
     "clsx": "^2.1.1",
@@ -18,7 +17,6 @@
     "lucide-react": "^0.576.0",
     "next": "16.1.6",
     "postcss": "^8.5.8",
-    "puppeteer-core": "^24.37.5",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "tailwind-merge": "^3.5.0",
@@ -26,7 +24,6 @@
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/puppeteer-core": "^5.4.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
